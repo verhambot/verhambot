@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Amogh!</h1>
 
+
 <h2>About Me</h2>
 <p>
   I'm a sophomore at PES University, pursuing a B. Tech in Computer Science.
 </p>
 
-<br>
 
 <h2>What I Love</h2>
 <p>
@@ -15,7 +15,6 @@
   • All things Linux
 </p>
 
-<br>
 
 <h2>I’m Currently Learning</h2>
 <p>
@@ -23,7 +22,6 @@
   • Control Systems
 </p>
 
-<br>
 
 <h2>Technical Experience</h2>
 
@@ -51,7 +49,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
 
 <h2>Connect With Me</h2>
 <p>
